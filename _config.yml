@@ -4,6 +4,7 @@ title: "Memoirs"
 description: "Studying NLP, IR, AI."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
+url: 'https://aei0109.github.io'
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
